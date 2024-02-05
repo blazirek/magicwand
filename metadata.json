@@ -2,5 +2,8 @@
   "name": "HAHA PUSSY GO BRRR",
   "symbol": "BRRR",
   "description": "HAHAHAHA PUSSY GO BRRRR",
+  "extensions": {
+        "website": " https://www.brrr.fun/"
+    },
   "image": "https://raw.githubusercontent.com/blazirek/magicwand/main/brrrlogo.jpg"
 }
